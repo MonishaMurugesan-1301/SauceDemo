@@ -1,0 +1,6 @@
+16:32:07,022 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\monimuru\eclipse-workspace\Testng\testng.xml"
+16:32:08,306  INFO Utils:112 - [TestNG] Running:
+  C:\Users\monimuru\eclipse-workspace\Testng\testng.xml
+
+16:32:08,354 DEBUG devpinoyLogger:37 - Chrome browser is open
+16:32:14,231 DEBUG devpinoyLogger:47 - URL is open
